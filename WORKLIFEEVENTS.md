@@ -198,7 +198,7 @@ Focus on:
 
 - Repair my PC on my own 
 
-- Take my PC to PC seller at Phnom Penh alone and walk a whole day long and sleep in café shop with motor-taxi call me at 11, 12 PM and wake at 5 and then walk away from café shop to the river till the afternoon go back to take the PC , then wait taxi to back home 
+- Take my PC to PC seller at Phnom Penh alone and walk a whole day long and sleep in café shop with motor-taxi call me at 11 PM, 12 AM and wake at 5 and then walk away from café shop to the river till the afternoon go back to take the PC , then wait taxi to back home 
 
 - Failed PC repairs many times 
 
