@@ -41,6 +41,19 @@ Research & Project focus on:
 - So on. 
 
 
+#### @CUBETIQTRAINER 
+
+From: 2019 
+
+Training on: 
+
+- Web Development (Spring, React, Concepts, and Design) 
+
+- Mobile Development
+
+- Software Principles 
+
+
 #### @INTERNSHIPCUBETIQ 
 
 From:  05/2017 - 2018 – 2019 (late) 
@@ -62,19 +75,6 @@ Project focus on:
 - The Maze Reporting (Web App build with Laravel + Vue) (Failed)
 
 - Mobile Development on Happily (Failed) 
-
-
-#### @CUBETIQTRAINER 
-
-From: 2019 
-
-Training on: 
-
-- Web Development (Spring, React, Concepts, and Design) 
-
-- Mobile Development
-
-- Software Principles 
 
 
 #### @TC 
