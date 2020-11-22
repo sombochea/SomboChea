@@ -253,7 +253,7 @@ Focus on:
 - Mobile functions and audit 
 
 
-#### @PREGUY (KID – POOR LEVEL) 
+#### @PREGUY (KID – STARTER LEVEL) 
 
 From: 2003-4 
 
