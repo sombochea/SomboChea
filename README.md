@@ -1,2 +1,2 @@
 ### Make for better things
-Be-**Bold** * Be-***Right***
+Be-**Bold** * Be-*Right* * Be-Honest
